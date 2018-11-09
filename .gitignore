@@ -1,0 +1,11 @@
+*.pyc
+__pycache_/
+.coverage
+.cache/
+.env
+.DS_Store
+.idea/
+instance/
+.vscode/
+*.sqlite
+errors.log
